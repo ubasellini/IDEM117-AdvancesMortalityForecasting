@@ -1,12 +1,8 @@
 # IDEM 117: Advances in Mortality Forecasting
 
-This repository contains the slides for the [International advanced studies in DEMography (IDEM)](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/) 117 course on "Advances in Mortality Forecasting".  
-
 Instructors: Giancarlo Camarda \& Ugofilippo Basellini
 
-Start date: 28/06/2021
-
-End date: 02/07/2021
+This repository contains the slides and the reading list for the [International advanced studies in DEMography (IDEM)](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/) 117 course on "Advances in Mortality Forecasting". The course was offered in [June 2021](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/advances_in_mortality_forecasting_9072/) and [January 2022](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/advances_in_mortality_forecasting_9992/). For questions about this course, please contact us at [carlo-giovanni.camarda@ined.fr](mailto:carlo-giovanni.camarda@ined.fr) and [basellini@demogr.mpg.de](mailto:basellini@demogr.mpg.de)
 
 
 ## Syllabus
